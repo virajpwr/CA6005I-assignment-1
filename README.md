@@ -3,7 +3,9 @@ Student ID: 23102561
 email: viraj.pawar2@email.dcu.ie
 
 
-The notebook assignment.ipynb implements a simple Information Retrieval system that is able to index a small collection of documents, perform queries over it, and generate an output in the form of a ranked list of document id and for their corresponding query id. The notebook implements Vector Space Model (VSM), BM25 and Query Likelihood with Laplace smoothing models. 
+The notebook `assignment.ipynb` implements a simple Information Retrieval system that is able to index a small collection of documents, perform queries over it, and generate an output in the form of a ranked list of document id and for their corresponding query id. 
+
+The notebook implements Vector Space Model (VSM), BM25 and Query Likelihood with Laplace smoothing models. 
 
 Information on folders:
 
